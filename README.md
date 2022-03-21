@@ -10,7 +10,8 @@ Saya Farah Dwi Ameliani 2001286 mengerjakan LATIHAN5DPBO2022 dalam mata kuliah D
 - btnAdd, btnCancel, btnDelete : Palatino Linotype 12 bold
 - isiNim, isiNama, isiNilai : Palatino Linotype 13 plain
 
-![WhatsApp Image 2022-03-21 at 22 09 33](https://user-images.githubusercontent.com/99456071/159293982-a31bf37b-39c4-4937-b40d-f52228e7d69f.jpeg)
+![WhatsApp Image 2022-03-21 at 22 21 13 (1)](https://user-images.githubusercontent.com/99456071/159296181-d2bb25e3-05c6-4fd5-b913-ee44bd9198c3.jpeg)
+
 
 2. Mengubah id setiap komponen (misal komponen input NIM diberi id txtNim)
    Setiap nama komponen disisipkan nama fungsi dari komponen tersebut, agar memudahkan dalam membedakan dengan komponen lain
