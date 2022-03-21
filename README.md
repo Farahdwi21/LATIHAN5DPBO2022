@@ -14,7 +14,7 @@ Saya Farah Dwi Ameliani 2001286 mengerjakan LATIHAN5DPBO2022 dalam mata kuliah D
 
 
 2. Mengubah id setiap komponen (misal komponen input NIM diberi id txtNim)
-Setiap nama komponen disisipkan nama fungsi dari komponen tersebut, agar memudahkan dalam membedakan dengan komponen lain
+--> Setiap nama komponen disisipkan nama fungsi dari komponen tersebut, agar memudahkan dalam membedakan dengan komponen lain
 - Untuk judul digunakan nama idTitle 
 - sedangkan untuk botton disisipkan kata "btn" pada awal nama komponen
 - untuk kolom tempat mengisi nim, nama , dan nilai disisipkan kata "isi" didepan nama komponen nya
