@@ -7,7 +7,7 @@ Saya Farah Dwi Ameliani 2001286 mengerjakan LATIHAN5DPBO2022 dalam mata kuliah D
 1. Mengganti font dan ukuran teks
 - Font yang digunakan untuk judul (idTitle) adalah Gabriola (bold) dengan ukuran huruf 24
 - IdNim, idNama, idNilai : Palatino Linotype (bold) 14
-- btnAdd, btnCancel, btnDelete : Palatino Linotype 12 bold
+- btnAdd, btnCancel, btnDelete + isi dalam tabel : Palatino Linotype 12 bold
 - isiNim, isiNama, isiNilai : Palatino Linotype 13 plain
 
 ![WhatsApp Image 2022-03-21 at 22 21 13 (1)](https://user-images.githubusercontent.com/99456071/159296181-d2bb25e3-05c6-4fd5-b913-ee44bd9198c3.jpeg)
